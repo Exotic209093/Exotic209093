@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm James</h1>
-<h3 align="center">Junior Software Developer | Python • Salesforce • Web & Systems</h3>
+<h3 align="center">Software Developer | Python • Salesforce • Web & Systems</h3>
 
 <p align="center">
 I build practical software that solves real problems — automation, platforms, and tools that actually get used.
