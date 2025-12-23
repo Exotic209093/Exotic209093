@@ -9,7 +9,7 @@ I build practical software that solves real problems — automation, platforms, 
 
 ## 🚀 About Me
 
-- 💼 Junior Software Developer based in the UK  
+- 💼 Software Developer based in the UK  
 - 🐍 Strongest in **Python** — automation, APIs, tooling, and backend logic  
 - ☁️ Working with **Salesforce** (org setup, flows, LWCs, integrations)  
 - 🌐 Experience with **web apps**, internal tools, and dashboards  
