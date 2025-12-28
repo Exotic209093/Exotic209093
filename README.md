@@ -10,7 +10,7 @@ I build practical software that solves real problems — automation, platforms, 
 ## 🚀 About Me
 
 - 💼 Software Developer based in the UK  
-- 🐍 Strongest in **Python** — automation, APIs, tooling, and backend logic  
+- 🐍 Strongest in **Python**/**Apex** — automation, APIs, tooling, and backend logic  
 - ☁️ Working with **Salesforce** (org setup, flows, LWCs, integrations)  
 - 🌐 Experience with **web apps**, internal tools, and dashboards  
 - 🎮 Building plugins, overlays, and server-side tools for game communities  
