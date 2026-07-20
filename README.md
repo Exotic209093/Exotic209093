@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=7C93F9&center=true&vCenter=true&width=820&height=42&lines=Solutions+Engineer+%40+Apex-Main;Polyglot+Builder+%E2%80%94+Rust+%E2%80%A2+TS+%E2%80%A2+C%2B%2B+%E2%80%A2+Apex;Web+%E2%80%A2+Desktop+%E2%80%A2+Mobile+%E2%80%A2+Salesforce;Turning+fun+ideas+into+polished+software+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=7C93F9&center=true&vCenter=true&width=820&height=42&lines=Solutions+Engineer+%40+Apex-Main;Polyglot+Builder+%E2%80%94+Rust+%E2%80%A2+TS+%E2%80%A2+C%2B%2B+%E2%80%A2+Apex;Web+%E2%80%A2+Mobile+%E2%80%A2+Salesforce+%E2%80%A2+Systems;Turning+fun+ideas+into+polished+software+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <em>London-based Solutions Engineer who ships across the whole stack — from a browserless Rust document engine and C++ kernel drivers to Salesforce managed packages, full-stack web, and cross-platform apps. I turn fun ideas into polished, production-grade software.</em>
+  <em>London-based Solutions Engineer who ships across the whole stack — from a browserless Rust document engine and C++ kernel drivers to a Salesforce AppExchange managed package, full-stack web, and cross-platform mobile apps.</em>
 </p>
 
 ---
@@ -34,18 +34,15 @@ class SolutionsEngineer:
         self.role       = "Solutions Engineer @ Apex-Main"
         self.location   = "London, United Kingdom 🇬🇧"
         self.languages  = ["TypeScript", "Python", "Rust", "C++", "C", "Apex", "Dart"]
-        self.philosophy = "Turn fun ideas into polished, production-grade software"
+        self.philosophy = "Right tool for the job — from the kernel to the cloud"
 
     def what_i_do(self):
         return {
-            "salesforce":  "Managed packages, Apex, LWC, integrations & data tooling",
+            "salesforce":  "AppExchange managed package, Apex, LWC, integrations & data tooling",
             "systems":     "Rust rendering engines, C/C++ low-level code & drivers",
-            "products":    "Full-stack web + cross-platform mobile & desktop apps",
+            "products":    "Full-stack web + cross-platform Flutter mobile apps",
             "automation":  "AI-assisted workflows and process automation",
         }
-
-    def currently(self):
-        return "Shipping Docify (Rust HTML→PDF engine) & Salesforce AppExchange packages"
 ```
 
 ### 💡 What Drives Me
@@ -174,7 +171,7 @@ flowchart LR
 </table>
 
 <p align="center">
-  <sub>…plus a Windows kernel-mode driver in C++ (<code>ExoWare</code>), low-level tooling in C (<code>Elora</code>), and 20+ other repos. <a href="https://github.com/Exotic209093?tab=repositories">Browse them all →</a></sub>
+  <sub>…plus a Windows kernel-mode driver in C++ (<code>ExoWare</code>), low-level tooling in C (<code>EloraProd</code>), and more across 25 public repos. <a href="https://github.com/Exotic209093?tab=repositories">Browse them all →</a></sub>
 </p>
 
 ---
@@ -192,10 +189,6 @@ flowchart LR
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Exotic209093&bg_color=0d1117&color=c9d3ef&line=7c3aed&point=22d3ee&area=true&area_color=4f8cff&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Exotic209093&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -221,7 +214,7 @@ flowchart LR
 ```yaml
 building:
   - Docify — a browserless Rust engine rendering HTML/CSS to PDF, PNG, SVG & DOCX
-  - Salesforce AppExchange managed packages (Nebula-Vault, WaveLink)
+  - Nebula-Vault — a Salesforce AppExchange managed package (+ WaveLink data-seeding tooling)
   - Cross-platform products spanning React web + Flutter mobile
 
 exploring:
@@ -239,14 +232,11 @@ improving:
 
 ## 📫 Let's Connect
 
-<!-- TODO(James): replace the CHANGE-ME URLs below with your real LinkedIn / portfolio / email.
-     Just paste the links to me and I'll wire them in, or edit them here directly. -->
 <div align="center">
 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-james--c.app-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://james-c.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-James%20Collard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-collard-6b925a313/)
   [![GitHub](https://img.shields.io/badge/GitHub-Exotic209093-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Exotic209093)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/CHANGE-ME)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://CHANGE-ME.com)
-  [![Email](https://img.shields.io/badge/Email-Say%20hello-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:CHANGE-ME@example.com)
 
 </div>
 
@@ -256,15 +246,11 @@ improving:
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
 <p align="center">
   <i>💭 "Turning fun ideas into polished software — from the browser down to the kernel."</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer&reversal=true" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=110&section=footer&reversal=true" width="100%" alt="footer" />
 
 <div align="center">
   <sub>⭐ If any of my projects spark an idea, a star is always appreciated.</sub>
