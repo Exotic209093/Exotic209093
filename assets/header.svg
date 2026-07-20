@@ -8,13 +8,13 @@
     </linearGradient>
 
     <!-- Animated aurora gradient for the name -->
-    <linearGradient id="aurora" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="520" y2="0">
+    <linearGradient id="aurora" gradientUnits="userSpaceOnUse" x1="300" y1="0" x2="700" y2="0" spreadMethod="reflect">
       <stop offset="0%" stop-color="#7c3aed"/>
       <stop offset="35%" stop-color="#4f8cff"/>
       <stop offset="70%" stop-color="#22d3ee"/>
       <stop offset="100%" stop-color="#7c3aed"/>
       <animateTransform attributeName="gradientTransform" type="translate"
-        from="-520 0" to="520 0" dur="6s" repeatCount="indefinite"/>
+        from="-400 0" to="400 0" dur="6s" repeatCount="indefinite"/>
     </linearGradient>
 
     <radialGradient id="blob1" cx="50%" cy="50%" r="50%">
