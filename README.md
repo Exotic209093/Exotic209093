@@ -1,56 +1,19 @@
 <!-- ════════════════════════════════════════════════════════════════
      JAMES C · GitHub Profile
-     Cinematic animated banner lives in ./assets/header.svg
+     The whole hero — identity, what I build, and stack — is folded
+     into one continuous animated card at ./assets/header.svg
 ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <a href="https://github.com/Exotic209093">
-    <img src="./assets/header.svg" alt="James C — Solutions Engineer & Polyglot Builder" width="100%" />
+    <img src="./assets/header.svg" width="100%" alt="James C — Solutions Engineer & Polyglot Builder, based in London. What I build: Salesforce (AppExchange managed package, Apex, LWC, integrations); Systems (Rust rendering engines, C/C++ low-level & drivers); Products (full-stack web + cross-platform Flutter mobile); Automation (AI-assisted workflows). Languages: TypeScript, Python, Rust, C++, C, Apex, Dart, C#, JavaScript." />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=7C93F9&center=true&vCenter=true&width=820&height=42&lines=Solutions+Engineer+%40+Apex-Main;Polyglot+Builder+%E2%80%94+Rust+%E2%80%A2+TS+%E2%80%A2+C%2B%2B+%E2%80%A2+Apex;Web+%E2%80%A2+Mobile+%E2%80%A2+Salesforce+%E2%80%A2+Systems;Turning+fun+ideas+into+polished+software+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Exotic209093&label=Profile%20views&color=7C3AED&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Exotic209093?label=Followers&style=for-the-badge&color=22D3EE&labelColor=0d1117" alt="followers" />
-  <img src="https://img.shields.io/badge/Based%20in-London%20%F0%9F%87%AC%F0%9F%87%A7-4F8CFF?style=for-the-badge&labelColor=0d1117" alt="location" />
 </p>
-
-<p align="center">
-  <em>London-based Solutions Engineer who ships across the whole stack — from a browserless Rust document engine and C++ kernel drivers to a Salesforce AppExchange managed package, full-stack web, and cross-platform mobile apps.</em>
-</p>
-
----
-
-## 🧬 About Me
-
-```python
-class SolutionsEngineer:
-    def __init__(self):
-        self.name       = "James C"
-        self.role       = "Solutions Engineer @ Apex-Main"
-        self.location   = "London, United Kingdom 🇬🇧"
-        self.languages  = ["TypeScript", "Python", "Rust", "C++", "C", "Apex", "Dart"]
-        self.philosophy = "Right tool for the job — from the kernel to the cloud"
-
-    def what_i_do(self):
-        return {
-            "salesforce":  "AppExchange managed package, Apex, LWC, integrations & data tooling",
-            "systems":     "Rust rendering engines, C/C++ low-level code & drivers",
-            "products":    "Full-stack web + cross-platform Flutter mobile apps",
-            "automation":  "AI-assisted workflows and process automation",
-        }
-```
-
-### 💡 What Drives Me
-
-- 🧩 **Range over labels** — my title is Solutions Engineer, but I build wherever the interesting problem is: web, systems, mobile, or the Salesforce platform
-- 🏗️ **Polished by default** — from first commit to production, I care about clean, maintainable, real-world software
-- ⚙️ **Down to the metal** — comfortable in high-level TypeScript *and* writing Rust render engines and C++ drivers
-- 🚀 **Ship fun ideas** — the best projects start as "wouldn't it be cool if…" and end as something people actually use
 
 ---
 
@@ -81,41 +44,17 @@ flowchart LR
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tools & Platforms
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-### Frontend & Apps
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-### Backend & Platforms
-<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
-
-### Data & Infrastructure
-<p>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -125,7 +64,7 @@ flowchart LR
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+</div>
 
 ---
 
