@@ -1,14 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" fill="none" role="img" aria-label="James C — Solutions Engineer and Polyglot Builder">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" fill="none" role="img" aria-label="James C — Solutions Engineer and Polyglot Builder based in London. Builds across Salesforce (AppExchange managed package, Apex, LWC, integrations), Systems (Rust rendering engines, C/C++ low-level and drivers), Products (full-stack web and cross-platform Flutter mobile), and Automation (AI-assisted workflows). Languages: TypeScript, Python, Rust, C++, C, Apex, Dart, C#, JavaScript.">
   <defs>
-    <!-- Deep cinematic background -->
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#05070d"/>
       <stop offset="55%" stop-color="#0a0e17"/>
       <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
 
-    <!-- Animated aurora gradient for the name -->
-    <linearGradient id="aurora" gradientUnits="userSpaceOnUse" x1="300" y1="0" x2="700" y2="0" spreadMethod="reflect">
+    <linearGradient id="aurora" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="440" y2="0" spreadMethod="reflect">
       <stop offset="0%" stop-color="#7c3aed"/>
       <stop offset="35%" stop-color="#4f8cff"/>
       <stop offset="70%" stop-color="#22d3ee"/>
@@ -18,68 +16,108 @@
     </linearGradient>
 
     <radialGradient id="blob1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.55"/>
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.50"/>
       <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="blob2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.45"/>
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.42"/>
       <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
     </radialGradient>
 
     <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="34"/>
+      <feGaussianBlur stdDeviation="42"/>
     </filter>
 
     <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" fill="none" stroke="#2a3350" stroke-width="1" stroke-opacity="0.35"/>
+      <path d="M34 0H0V34" fill="none" stroke="#2a3350" stroke-width="1" stroke-opacity="0.30"/>
     </pattern>
   </defs>
 
-  <!-- Background -->
-  <rect width="1000" height="230" rx="16" fill="url(#bg)"/>
-  <rect width="1000" height="230" rx="16" fill="url(#grid)"/>
+  <!-- Card -->
+  <rect width="1000" height="560" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="560" rx="18" fill="url(#grid)"/>
 
-  <!-- Drifting aurora blobs -->
-  <circle cx="230" cy="70" r="150" fill="url(#blob1)" filter="url(#soft)">
+  <!-- Drifting aurora -->
+  <circle cx="220" cy="120" r="180" fill="url(#blob1)" filter="url(#soft)">
     <animateTransform attributeName="transform" type="translate"
-      values="0 0; 120 40; -40 20; 0 0" dur="14s" repeatCount="indefinite"/>
+      values="0 0; 130 60; -40 30; 0 0" dur="15s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="780" cy="170" r="160" fill="url(#blob2)" filter="url(#soft)">
+  <circle cx="820" cy="440" r="190" fill="url(#blob2)" filter="url(#soft)">
     <animateTransform attributeName="transform" type="translate"
-      values="0 0; -110 -30; 50 -10; 0 0" dur="16s" repeatCount="indefinite"/>
+      values="0 0; -120 -50; 60 -20; 0 0" dur="17s" repeatCount="indefinite"/>
   </circle>
-
-  <!-- Terminal prompt line -->
-  <text x="500" y="66" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
-        font-size="17" fill="#7d8bb0" letter-spacing="1">
-    james@apex-main:~$ whoami
-  </text>
-
-  <!-- Name -->
-  <text x="500" y="132" text-anchor="middle"
-        font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
-        font-size="66" font-weight="700" letter-spacing="4" fill="url(#aurora)">
-    JAMES C<tspan fill="#4f8cff">_<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></tspan>
-  </text>
-
-  <!-- Subtitle -->
-  <text x="500" y="176" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif"
-        font-size="20" font-weight="600" fill="#c9d3ef" letter-spacing="2">
-    Solutions Engineer  &#183;  Polyglot Builder
-  </text>
-
-  <!-- Tagline -->
-  <text x="500" y="204" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif"
-        font-size="13.5" fill="#6b7699" letter-spacing="3">
-    LONDON, UK  &#8226;  RUST &#183; TYPESCRIPT &#183; C++ &#183; APEX &#183; PYTHON
-  </text>
 
   <!-- Sweeping scanline -->
-  <rect x="-160" y="0" width="160" height="230" fill="#ffffff" opacity="0.04">
+  <rect x="-180" y="0" width="180" height="560" fill="#ffffff" opacity="0.035">
     <animateTransform attributeName="transform" type="translate"
-      values="0 0; 1160 0" dur="7s" repeatCount="indefinite"/>
+      values="0 0; 1180 0" dur="8s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Accent border -->
-  <rect x="1" y="1" width="998" height="228" rx="16" fill="none" stroke="#2b3a67" stroke-width="1.5" stroke-opacity="0.6"/>
+  <!-- ── Header ── -->
+  <text x="56" y="54" font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="16" fill="#7d8bb0" letter-spacing="1">james@apex-main:~$ whoami --full</text>
+
+  <text x="54" y="126" font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="58" font-weight="700" letter-spacing="3" fill="url(#aurora)">JAMES C<tspan fill="#4f8cff">_<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+
+  <text x="56" y="162" font-family="'Segoe UI',system-ui,sans-serif" font-size="21"
+        font-weight="600" fill="#c9d3ef" letter-spacing="1">Solutions Engineer &#183; Polyglot Builder</text>
+
+  <text x="56" y="190" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5"
+        fill="#6b7699" letter-spacing="1.5">London, UK &#8226; Turning fun ideas into polished software</text>
+
+  <line x1="56" y1="212" x2="944" y2="212" stroke="#22304f" stroke-width="1"/>
+
+  <!-- ── What I build ── -->
+  <text x="56" y="244" font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="14" fill="#7c3aed" letter-spacing="1">// what I build</text>
+
+  <g font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14">
+    <text x="56" y="276" fill="#7c93f9" letter-spacing="1">SALESFORCE</text>
+    <text x="210" y="276" fill="#aeb9d6">AppExchange managed package &#183; Apex &#183; LWC &#183; integrations</text>
+
+    <text x="56" y="304" fill="#7c93f9" letter-spacing="1">SYSTEMS</text>
+    <text x="210" y="304" fill="#aeb9d6">Rust rendering engines &#183; C / C++ low-level &amp; drivers</text>
+
+    <text x="56" y="332" fill="#7c93f9" letter-spacing="1">PRODUCTS</text>
+    <text x="210" y="332" fill="#aeb9d6">Full-stack web &#183; cross-platform Flutter mobile apps</text>
+
+    <text x="56" y="360" fill="#7c93f9" letter-spacing="1">AUTOMATION</text>
+    <text x="210" y="360" fill="#aeb9d6">AI-assisted workflows &amp; process automation</text>
+  </g>
+
+  <line x1="56" y1="384" x2="944" y2="384" stroke="#22304f" stroke-width="1"/>
+
+  <!-- ── Stack ── -->
+  <text x="56" y="416" font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="14" fill="#7c3aed" letter-spacing="1">// stack</text>
+
+  <g font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#c9d3ef">
+    <!-- Row 1 -->
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.5s" fill="freeze"/>
+      <rect x="56" y="432" width="112" height="30" rx="8" fill="#141a29" stroke="#2b3a67"/><text x="112" y="452" text-anchor="middle">TypeScript</text></g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.25s" dur="0.5s" fill="freeze"/>
+      <rect x="180" y="432" width="78" height="30" rx="8" fill="#141a29" stroke="#2b3a67"/><text x="219" y="452" text-anchor="middle">Python</text></g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.5s" fill="freeze"/>
+      <rect x="270" y="432" width="60" height="30" rx="8" fill="#141a29" stroke="#3b2f6b"/><text x="300" y="452" text-anchor="middle">Rust</text></g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.5s" fill="freeze"/>
+      <rect x="342" y="432" width="52" height="30" rx="8" fill="#141a29" stroke="#2b3a67"/><text x="368" y="452" text-anchor="middle">C++</text></g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.5s" fill="freeze"/>
+      <rect x="406" y="432" width="36" height="30" rx="8" fill="#141a29" stroke="#2b3a67"/><text x="424" y="452" text-anchor="middle">C</text></g>
+    <!-- Row 2 -->
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.5s" fill="freeze"/>
+      <rect x="56" y="476" width="62" height="30" rx="8" fill="#141a29" stroke="#2b3a67"/><text x="87" y="496" text-anchor="middle">Apex</text></g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.5s" fill="freeze"/>
+      <rect x="130" y="476" width="62" height="30" rx="8" fill="#141a29" stroke="#2b3a67"/><text x="161" y="496" text-anchor="middle">Dart</text></g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.85s" dur="0.5s" fill="freeze"/>
+      <rect x="204" y="476" width="46" height="30" rx="8" fill="#141a29" stroke="#2b3a67"/><text x="227" y="496" text-anchor="middle">C#</text></g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.95s" dur="0.5s" fill="freeze"/>
+      <rect x="262" y="476" width="112" height="30" rx="8" fill="#141a29" stroke="#2b3a67"/><text x="318" y="496" text-anchor="middle">JavaScript</text></g>
+  </g>
+
+  <!-- Footer note -->
+  <text x="56" y="534" font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="13" fill="#6b7699" letter-spacing="0.5">// open to interesting problems &amp; building things that ship</text>
+
+  <rect x="1" y="1" width="998" height="558" rx="18" fill="none" stroke="#2b3a67" stroke-width="1.5" stroke-opacity="0.6"/>
 </svg>
