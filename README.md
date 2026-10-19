@@ -6,8 +6,8 @@
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-  <img src="./assets/header.svg" width="100%" alt="James C, solutions engineer in London. From Salesforce apps to Rust render engines. Now building Galacia Vault, Docify and WaveLink." />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Exotic209093/Exotic209093/main/assets/header-light.svg" />
+  <img src="https://raw.githubusercontent.com/Exotic209093/Exotic209093/main/assets/header.svg" width="100%" alt="James C, solutions engineer in London. From Salesforce apps to Rust render engines. Now building Galacia Vault, Docify and WaveLink." />
 </picture>
 
 I'm a solutions engineer in London. Day to day that's Salesforce (Apex, LWC, integrations),
