@@ -7,6 +7,12 @@ and integrations with the systems around it. Outside that I build full products 
 from Chrome extensions and Electron apps to a document render engine in Rust,
 and I ship them to real users.
 
+## Experience
+
+**Solutions Engineer** at [Apex Infinity Solutions](https://apexinfinitysolutions.com/), a UK Salesforce partner.
+I build and fix Salesforce solutions for clients: Apex, Lightning Web Components and integrations,
+from implementation through to ongoing support.
+
 ## What I do
 
 - **Salesforce development:** Apex, LWC, SOQL, Bulk and REST APIs, org-to-org data migration.
@@ -19,7 +25,7 @@ and I ship them to real users.
 |---|---|---|
 | [WaveLink](https://github.com/Exotic209093/WaveLink) | Chrome extension for moving data in and out of Salesforce: SOQL exports, Bulk API imports, scheduled snapshots, org-to-org migration with ID remapping. [Live on the Chrome Web Store](https://chromewebstore.google.com/detail/wavelink/ccknhhibbedolfnbgnenomdohlmojblo). | TypeScript, Chrome APIs, Salesforce APIs |
 | [Flux Terminal](https://github.com/Exotic209093/Flux-Terminal) | Desktop terminal built on ConPTY, with live dashboards, theming and a scrubbable session timeline. [Releases](https://github.com/Exotic209093/Flux-Terminal/releases). | Electron, React, xterm.js |
-| [Infinity Idea](https://github.com/Exotic209093/Infinity-Idea) | Client-side canvas for client-facing documents, with diagrams and template blocks, exporting to PDF, PNG and SVG. [Try it](https://infinity-idea.vercel.app). | Next.js, tldraw |
+| [Infinite Idea](https://github.com/Exotic209093/Infinity-Idea) | Client-side canvas for client-facing documents, with diagrams and template blocks, exporting to PDF, PNG and SVG. [Try it](https://infinity-idea.vercel.app). | Next.js, tldraw |
 | [ExoCraft](https://github.com/Exotic209093/ExoCraft) | Voxel sandbox in the browser: procedural terrain, lighting, crafting and mobs. [Play](https://exo-craft.vercel.app). | Three.js, Vite |
 | [File Insights](https://github.com/Exotic209093/File-Insights) | Local file metadata viewer and editor covering EXIF, audio tags, PDFs and checksums. | Python |
 
